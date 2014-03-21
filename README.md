@@ -13,4 +13,4 @@ Sample codes:
 + get_yob.py gets count of babies per year, given one name and gender
 + plot_yob.py plots count of babies per year, given one name and gender
 
-![plot_yob.py output](https://github.com/philshem/nameyear/blob/master/plot_yob.png)
+![](https://github.com/philshem/nameyear/blob/master/plot_yob.png)
