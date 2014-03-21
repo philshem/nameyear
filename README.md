@@ -12,3 +12,5 @@ Simple python dictionary (nameyear.py) derived from United States Social Securit
 Sample codes:
 + get_yob.py gets count of babies per year, given one name and gender
 + plot_yob.py plots count of babies per year, given one name and gender
+
+![plot_yob.py output](https://github.com/philshem/nameyear/blob/master/plot_yob.png)
