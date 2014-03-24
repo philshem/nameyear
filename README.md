@@ -1,7 +1,7 @@
 nameyear
 ========
 
-Simple python dictionary (nameyear.py) derived from United States Social Security Administration - Popular Baby Names: http://www.ssa.gov/oact/babynames/limits.html. I fully recognize there is no right answer as to which gender a name is (or even what "gender" means), but this can still be useful for stats purposes.
+Simple python dictionary (nameyear.py) derived from United States Social Security Administration - Popular Baby Names: http://www.ssa.gov/oact/babynames/limits.html. I don't make any assumptions about what is 'gender' - I'm only using the 'M' or 'F' as it comes from the SSA office.
 
     import nameyear
     myname = u'Philip'
