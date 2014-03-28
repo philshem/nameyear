@@ -3,10 +3,10 @@ nameyear
 
 Simple python dictionary (nameyear.py) derived from United States Social Security Administration - Popular Baby Names: http://www.ssa.gov/oact/babynames/limits.html. I don't make any assumptions about what is 'gender' - I'm only using the 'M' or 'F' as it comes from the SSA office.
 
-    import nameyear
+    from nameyear import nameyear
     myname = u'Philip'
     mygender = u'M'
-    print nameyear.nameyear[myname.upper()][mygender.upper()]
+    print nameyear[myname.upper()][mygender.upper()]
     
     
 Sample codes:
