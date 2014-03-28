@@ -1,10 +1,10 @@
 import matplotlib.pyplot as plt
 
-import nameyear
+from nameyear import nameyear
 
 myname = u'Philip'
 mygender = u'M'
-getname = nameyear.nameyear[myname.upper()][mygender.upper()]
+getname = nameyear[myname.upper()][mygender.upper()]
 
 yearlist = []
 countlist = []
